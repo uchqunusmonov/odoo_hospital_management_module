@@ -7,7 +7,9 @@
     'description': """Hospital Management""",
     'sequence': -100,
     'depends': [],
-    'data': [],
+    'data': [
+        'views/menu.xml'
+    ],
     'demo': [],
     'application': True,
     'auto_install': False,
