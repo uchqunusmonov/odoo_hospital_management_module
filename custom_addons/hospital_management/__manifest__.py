@@ -8,7 +8,8 @@
     'sequence': -100,
     'depends': [],
     'data': [
-        'views/menu.xml'
+        'views/menu.xml',
+        'views/patient_view.xml'
     ],
     'demo': [],
     'application': True,
